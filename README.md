@@ -22,7 +22,7 @@ AccessCare Connect is a Laravel-based web application that enables:
 - Track appointment history and outcomes
 - Generate appointment reports and insights
 
-## Features
+## Features ##
 - **User Authentication:** Secure role-based login system (Patients/Doctors)
 - **Appointment Management:** Schedule, approve, reject, and manage appointments
 - **Date Suggestion System:** Alternative date proposal for scheduling conflicts
