@@ -32,7 +32,7 @@
                             <table class="table">
                                 <thead>
                                     <tr>
-                                        <th>Patient Name</th>
+                                        <th>Name of Patient</th>
                                         <th>Date & Time</th>
                                         <th>Description</th>
                                         <th>Status</th>
